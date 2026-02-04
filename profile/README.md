@@ -187,6 +187,6 @@ go build -o nexus-cli .
 
 **Made with ❤️ by the Nexus CLI Community**
 
-[Website](https://nexuscli.dev) • [Releases](https://github.com/NexusCLI/NexusCLI/releases) • [Whitepaper](https://github.com/NexusCLI/NexusCLI/wiki/WHITEPAPER.md) • [Issues](https://github.com/NexusCLI/NexusCLI/issues)
+[Releases](https://github.com/NexusCLI/NexusCLI/releases) • [Whitepaper](https://github.com/NexusCLI/NexusCLI/wiki/WHITEPAPER.md) • [Issues](https://github.com/NexusCLI/NexusCLI/issues)
 
 </div>
