@@ -2,6 +2,8 @@
 
 > **Decentralized, End-to-End Encrypted File Storage Backed by GitHub**
 
+## [CLICK HERE TO GO STRAIGHT TO THE CODE](https://github.com/NexusCLI/NexusCLI)
+
 Nexus CLI transforms your GitHub repository into a private, encrypted file vault. Store sensitive documents, backups, and confidential files with industry-standard AES-256-GCM encryption—all managed from your command line.
 
 ---
